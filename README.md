@@ -1,5 +1,18 @@
 # ToDoApp
 
+This project was generated with [Angular CLI] version 8.0.4.
+
+## demo : https://todo-application-base.web.app/
+
+## Sample Video
+
+![image](todo-angular-app.gif)
+
+## Sample Picture
+
+![image](todo-angular-app.jpg)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
 
 ## Development server
